@@ -1,4 +1,4 @@
-# MySQLSlowQueryParser
+# MySQLSlowQueryParser [![Build Status](https://travis-ci.org/studio3104/mysql-slowquery-parser.svg)](https://travis-ci.org/studio3104/mysql-slowquery-parser)
 
 Slow query log parser for MySQL
 
